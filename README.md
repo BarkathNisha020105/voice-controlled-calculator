@@ -1,5 +1,33 @@
-The Voice Calculator is a Python-based application that enables users to perform mathematical calculations entirely through voice commands. 
-It leverages speech recognition to understand natural language input and text-to-speech to read the results aloud. 
-This project is ideal for learning about Python programming, speech recognition, and text-to-speech integration.
-With this calculator, users can perform basic arithmetic operations like addition, subtarction , division all by simply speaking.
- It provides an interactive and hands-free experience for performing calculations quickly and efficiently.
+# Voice-Controlled Calculator
+
+## 📌 Overview
+A calculator that performs arithmetic operations based on voice commands. It converts speech into text and calculates results accordingly.
+
+## 🚀 Features
+- Accepts voice input
+- Performs basic arithmetic operations
+- Converts speech to text
+- Provides spoken output results
+
+## 🛠 Technologies Used
+- Python
+- SpeechRecognition
+- PyAudio
+- Text-to-Speech (TTS)
+
+## ▶️ How to Run
+1. Install dependencies:
+pip install SpeechRecognition pyttsx3 pyaudio
+
+2. Run the script:
+python main.py
+
+## 📊 Results
+- Successfully performs calculations via voice
+- User-friendly interaction
+
+## 📌 Future Improvements
+- Add advanced math operations
+- Improve voice accuracy
+- Add GUI interface
+
